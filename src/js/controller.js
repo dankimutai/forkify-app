@@ -11,3 +11,7 @@ const timeout = function (s) {
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
+console.log('logged in');
+import { ship } from './shoppingcart.js';
+console.log('importing module');
+console.log(ship)
