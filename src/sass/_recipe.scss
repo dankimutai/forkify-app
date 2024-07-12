@@ -81,24 +81,7 @@
     }
   }
 
-  &__info-icon {
-    height: 2.35rem;
-    width: 2.35rem;
-    fill: $color-primary;
-    margin-right: 1.15rem;
-  }
-
-  &__info-data {
-    margin-right: 0.5rem;
-    font-weight: 700;
-  }
-
-  &__info-buttons {
-    display: flex;
-    margin-left: 1.6rem;
-    transform: translateY(-1px);
-  }
-
+  
   
 
   &__ingredient-list {
